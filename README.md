@@ -1,2 +1,7 @@
-# Test_Repo
-# Make some changes to Repo
+# FinTech Repository
+
+## FinTech Repository
+
+### FinTech Repository
+
+Welcome to my repository of FinTech projects. Please explore the codebase!
